@@ -1,0 +1,18 @@
+.container{
+    width: 300x;
+    margin: 1em;
+}
+
+span{
+    font-weight: bold;
+}
+
+li{list-style: none;}
+
+.box{border: 1px solid;
+    width: 300x;
+    padding: 1em;
+}
+
+ ul{background-color: #b3d5e2;}
+
