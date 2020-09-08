@@ -3,6 +3,9 @@ This project combines the skills HTML &amp; CSS and asks you to re-create a webp
 
 The design prototype used in this project is inspired by trading cards 
 
+![](design-prototype.png)
+
+
 ## What it does
 
 
